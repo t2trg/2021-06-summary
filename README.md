@@ -14,7 +14,7 @@ TBD
 
 Slides: TBD
 
-Notes: <https://codimd.ietf.org/notes-irtf-t2trg-2021-06-summary>
+Notes: TBD
 
 ## Draft agenda
 
