@@ -26,7 +26,7 @@ Please contact the [chairs][] for any changes required.
 |      15:10 | Chairs              | Reports from [WISHI][] and other activities        |                                             |
 |            | TBD                 | TBD                                                |                                             |
 |      16:55 | Chairs              | Wrap-up                                            |                                             |
-|      16:00 | Chairs              | end of meeting                                     |                                             |
+|      17:00 | Chairs              | end of meeting                                     |                                             |
 
 
 
