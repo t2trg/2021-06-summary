@@ -6,6 +6,8 @@ T2TRG virtual summary meeting
 
 Local time in various locations: <https://www.timeanddate.com/worldclock/fixedtime.html?msg=T2TRG+summary+interim&iso=20210621T15&p1=1440&ah=2>
 
+Calendar link: https://datatracker.ietf.org/meeting/interim-2021-t2trg-01/session/28933.ics
+
 ## Logistics
 
 Meetecho: <https://meetings.conf.meetecho.com/interim/?short=35836199-968f-4eae-8584-53ac8c396214>
