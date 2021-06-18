@@ -12,6 +12,14 @@ Calendar link: https://datatracker.ietf.org/meeting/interim-2021-t2trg-01/sessio
 
 Meetecho: <https://meetings.conf.meetecho.com/interim/?short=35836199-968f-4eae-8584-53ac8c396214>
 
+Note that we will use meetecho for this meeting.
+Please check whether your datatracker account works; if it doesn’t, reset its password or get a new one at:
+
+https://datatracker.ietf.org/accounts/create/
+
+(It is worth doing this ahead of time as there may need to be an interaction with the IETF secretariat.)
+
+
 ## Materials
 
 Slides: TBD
