@@ -22,7 +22,7 @@ https://datatracker.ietf.org/accounts/create/
 
 ## Materials
 
-Slides: TBD
+Slides: https://datatracker.ietf.org/meeting/interim-2021-t2trg-01/session/t2trg
 
 Notes: <https://codimd.ietf.org/notes-ietf-interim-2021-t2trg-01-t2trg>
 
